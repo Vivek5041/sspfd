@@ -1,4 +1,4 @@
-CC = gcc
+CC = g++
 CFLAGS = -O3 -Wall
 LDFLAGS = -lsspfd -lm -lrt
 VER_FLAGS = -D_GNU_SOURCE
